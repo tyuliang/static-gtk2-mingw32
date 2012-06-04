@@ -1,0 +1,1 @@
+This is repository containing the makefile system to compile gtk2 as a monolithic library, this will contain a patchset for gtk+2.24.10 and glib 2.33.x and all the other libraries to the latest versions there is
